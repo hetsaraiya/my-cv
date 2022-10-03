@@ -35,3 +35,6 @@ button::before {
     left: calc(100% + 32px);
     transition: 1s;
 }
+div{
+    margin: 10px;
+}
